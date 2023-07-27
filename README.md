@@ -24,14 +24,17 @@ An introductory web development club that will culminate in engineers producing 
 <h3>Exercise #1</h3>
 <p>You will practice adding the elements you just learned and gain confidence and interest by starting to build a custom web page. </p>
 Complete the following challenges using <a href="/exercises/lab1.html">lab1.html</a>:
-<ul>
-  <li>Use a heading</li>
-  <li>There should be a list on the webpage</li>
-  <li>Add a paragraph</li>
-  <li>Add a list</li>
-  <li>Upload and display an image</li>
-  <li>Include at least one attribute in any of the previous elements</li>
-</ul>
+Engineers learn how to link pages, how to add media, including images and videos.
+
+Add:
+Links: The href attribute (what does it stand for? What does it do?)
+<a href=”https://link.com”>Link text</a>
+Images and the src attribute: <img src=
+Types of images
+Videos:
+Uploaded
+Embedded (demo iframe method)
+
 
 <h3>Exercise #2</h3>
 <p>You will practice adding HTML elements into the <a href="/exercises/lab2.html">lab2.html</a> file:</p>
@@ -44,74 +47,64 @@ Complete the following challenges using <a href="/exercises/lab1.html">lab1.html
 </ul>
 
 <h3>Exercise #3</h3>
-<p>You will continue to add content and style to your About Me pages using HTML and CSS.</p>
-Build a webpage that:
-<ul>
-<li>Tells their  peers and coaches more about them</li>
-<li>Lists their hobbies, achievements or goals</li>
-<li>Is visually appealing and informative</li>
-</ul>
 
+Color : use in font-color and background
+Margin: create space around elements, outside of any defined borders
+Text-align: horizontal alignment of text in an element
+Borders: add a border to an element. Demonstrate how to set: style, color, width, and corner-radius
 
 <h3>Exercise #4</h3>
-<p>You will practice adding the elements you just learned and gain confidence and interest by starting to build a custom web page. </p>
-Complete the following challenges using <a href="/exercises/lab4.html">lab4.html</a>:
-<ul>
-  <li>Use a heading</li>
-  <li>There should be a list on the webpage</li>
-  <li>Add a paragraph</li>
-  <li>Add a list</li>
-  <li>Upload and display an image</li>
-  <li>Include at least one attribute in any of the previous elements</li>
-</ul>
+Engineers independently continue building their About Me pages based on the planning and design they created. Coach provides assistance if engineers get stuck.  
+
+Day 4 Expectations:
+Engineers should finish their About Me  projects today.
+Engineers should be expected to demo their work.
+
 
 <h3>Exercise #5</h3>
-<p>You will practice adding the elements you just learned and gain confidence and interest by starting to build a custom web page. </p>
-Complete the following challenges using <a href="/exercises/lab5.html">lab5.html</a>:
-<ul>
-  <li>Use a heading</li>
-  <li>There should be a list on the webpage</li>
-  <li>Add a paragraph</li>
-  <li>Add a list</li>
-  <li>Upload and display an image</li>
-  <li>Include at least one attribute in any of the previous elements</li>
-</ul>
+Implement basic elements using Flexbox.
+
+The layout
+Display:flex
+Flex-direction
+
+<a href="https://css-tricks.com/wp-content/uploads/2022/02/css-flexbox-poster.png" target="_blank">Download the guide here</a>. 
+
+Spend 15 minutes having engineers code-along with this flexbox exercise.
+
 
 <h3>Exercise #6</h3>
-<p>You will practice adding the elements you just learned and gain confidence and interest by starting to build a custom web page. </p>
-Complete the following challenges using <a href="/exercises/lab6.html">lab6.html</a>:
-<ul>
-  <li>Use a heading</li>
-  <li>There should be a list on the webpage</li>
-  <li>Add a paragraph</li>
-  <li>Add a list</li>
-  <li>Upload and display an image</li>
-  <li>Include at least one attribute in any of the previous elements</li>
-</ul>
+Engineers practice creating layouts with CSS grid.
+
+Engineers will practice implementing the CSS grid by taking the 1st self assessment on Mozilla. If they still have time remaining, they can try the second challenge on the page.
+
+Encourage engineers to share or talk through their process as they move through the challenges. If they run into any obstacles, have them consult a peer, but make sure that their peers are not directly giving them the solution. Guide them through the process of communicating and guiding each other to the solution. 
+
+Be sure to have engineers share their solutions.
 
 <h3>Exercise #7</h3>
-<p>You will practice adding the elements you just learned and gain confidence and interest by starting to build a custom web page. </p>
-Complete the following challenges using <a href="/exercises/lab7.html">lab7.html</a>:
-<ul>
-  <li>Use a heading</li>
-  <li>There should be a list on the webpage</li>
-  <li>Add a paragraph</li>
-  <li>Add a list</li>
-  <li>Upload and display an image</li>
-  <li>Include at least one attribute in any of the previous elements</li>
-</ul>
+ Engineers learn  how to style properties when an element enters a special state.
+
+Direct engineers to  w3 schools. The coach will show engineers how to use online documentation by explaining pseudo-class syntax before sending groups to experiment with properties and explore themselves.
+
+Challenge engineers to work in groups, if possible, to experiment with the following css pseudo-classes on the code repository.  After time ends, engineers will share their findings. 
+Hover
+Active
+Clicked
+Nth-Child(n)
+
 
 <h3>Exercise #8</h3>
-<p>You will practice adding the elements you just learned and gain confidence and interest by starting to build a custom web page. </p>
-Complete the following challenges using <a href="/exercises/lab8.html">lab8.html</a>:
-<ul>
-  <li>Use a heading</li>
-  <li>There should be a list on the webpage</li>
-  <li>Add a paragraph</li>
-  <li>Add a list</li>
-  <li>Upload and display an image</li>
-  <li>Include at least one attribute in any of the previous elements</li>
-</ul>
+Engineers learn how to define style properties by using seamless transitions in CSS.
+
+Coaches should guide engineers through CSS transitions through one of the following examples:
+Potential code-along prompts:
+Make a div red when hovered using a seamless transition
+Make a button ‘shake’ when clicked by moving it a few pixels in each direction before returning back to its original position
+The code along should answer the following questions:
+What CSS properties affect a transition?
+How can an engineer find resources online to build the perfect CSS transition?
+How can an engineer test their code to ensure a transition works in the IDE.
 
 
 
