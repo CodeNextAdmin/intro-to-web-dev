@@ -34,7 +34,7 @@ Complete the following challenges using <a href="/exercises/lab1.html">lab1.html
 </ul>
 
 <h3>Exercise #2</h3>
-<p>You will practice adding HTML elements.</p>
+<p>You will practice adding HTML elements into the <a href="/exercises/lab2.html">lab2.html</a> file:</p>
 <ul>
 <li>Wrapping our old code in divs</li>
 <li>Use <nav>, <header>, <footer>, <body> tags to organize content on their page</li>
@@ -44,16 +44,14 @@ Complete the following challenges using <a href="/exercises/lab1.html">lab1.html
 </ul>
 
 <h3>Exercise #3</h3>
-<p>You will practice adding the elements you just learned and gain confidence and interest by starting to build a custom web page. </p>
-Complete the following challenges using <a href="/exercises/lab3.html">lab3.html</a>:
+<p>You will continue to add content and style to your About Me pages using HTML and CSS.</p>
+Build a webpage that:
 <ul>
-  <li>Use a heading</li>
-  <li>There should be a list on the webpage</li>
-  <li>Add a paragraph</li>
-  <li>Add a list</li>
-  <li>Upload and display an image</li>
-  <li>Include at least one attribute in any of the previous elements</li>
+<li>Tells their  peers and coaches more about them</li>
+<li>Lists their hobbies, achievements or goals</li>
+<li>Is visually appealing and informative</li>
 </ul>
+
 
 <h3>Exercise #4</h3>
 <p>You will practice adding the elements you just learned and gain confidence and interest by starting to build a custom web page. </p>
