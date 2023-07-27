@@ -35,7 +35,7 @@ Complete the following challenges using <a href="/exercises/lab1.html">lab1.html
 
 <h3>Exercise #2</h3>
 <p>You will practice adding the elements you just learned and gain confidence and interest by starting to build a custom web page. </p>
-Complete the following challenges using <a href="/exercises/lab2.html">lab1.html</a>:
+Complete the following challenges using <a href="/exercises/lab2.html">lab2.html</a>:
 <ul>
   <li>Use a heading</li>
   <li>There should be a list on the webpage</li>
@@ -47,7 +47,7 @@ Complete the following challenges using <a href="/exercises/lab2.html">lab1.html
 
 <h3>Exercise #3</h3>
 <p>You will practice adding the elements you just learned and gain confidence and interest by starting to build a custom web page. </p>
-Complete the following challenges using <a href="/exercises/lab3.html">lab1.html</a>:
+Complete the following challenges using <a href="/exercises/lab3.html">lab3.html</a>:
 <ul>
   <li>Use a heading</li>
   <li>There should be a list on the webpage</li>
@@ -59,7 +59,7 @@ Complete the following challenges using <a href="/exercises/lab3.html">lab1.html
 
 <h3>Exercise #4</h3>
 <p>You will practice adding the elements you just learned and gain confidence and interest by starting to build a custom web page. </p>
-Complete the following challenges using <a href="/exercises/lab4.html">lab1.html</a>:
+Complete the following challenges using <a href="/exercises/lab4.html">lab4.html</a>:
 <ul>
   <li>Use a heading</li>
   <li>There should be a list on the webpage</li>
@@ -71,7 +71,7 @@ Complete the following challenges using <a href="/exercises/lab4.html">lab1.html
 
 <h3>Exercise #5</h3>
 <p>You will practice adding the elements you just learned and gain confidence and interest by starting to build a custom web page. </p>
-Complete the following challenges using <a href="/exercises/lab5.html">lab1.html</a>:
+Complete the following challenges using <a href="/exercises/lab5.html">lab5.html</a>:
 <ul>
   <li>Use a heading</li>
   <li>There should be a list on the webpage</li>
@@ -83,7 +83,7 @@ Complete the following challenges using <a href="/exercises/lab5.html">lab1.html
 
 <h3>Exercise #6</h3>
 <p>You will practice adding the elements you just learned and gain confidence and interest by starting to build a custom web page. </p>
-Complete the following challenges using <a href="/exercises/lab6.html">lab1.html</a>:
+Complete the following challenges using <a href="/exercises/lab6.html">lab6.html</a>:
 <ul>
   <li>Use a heading</li>
   <li>There should be a list on the webpage</li>
@@ -95,7 +95,7 @@ Complete the following challenges using <a href="/exercises/lab6.html">lab1.html
 
 <h3>Exercise #7</h3>
 <p>You will practice adding the elements you just learned and gain confidence and interest by starting to build a custom web page. </p>
-Complete the following challenges using <a href="/exercises/lab7.html">lab1.html</a>:
+Complete the following challenges using <a href="/exercises/lab7.html">lab7.html</a>:
 <ul>
   <li>Use a heading</li>
   <li>There should be a list on the webpage</li>
@@ -107,7 +107,7 @@ Complete the following challenges using <a href="/exercises/lab7.html">lab1.html
 
 <h3>Exercise #8</h3>
 <p>You will practice adding the elements you just learned and gain confidence and interest by starting to build a custom web page. </p>
-Complete the following challenges using <a href="/exercises/lab8.html">lab1.html</a>:
+Complete the following challenges using <a href="/exercises/lab8.html">lab8.html</a>:
 <ul>
   <li>Use a heading</li>
   <li>There should be a list on the webpage</li>
