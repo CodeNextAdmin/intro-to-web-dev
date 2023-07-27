@@ -23,7 +23,7 @@ An introductory web development club that will culminate in engineers producing 
 
 <h2>Exercise #1</h2>
 <p>You will practice adding the elements you just learned and gain confidence and interest by starting to build a custom web page. </p>
-Complete the following challenges using <a href="lab1.html">lab1.html</a>:
+Complete the following challenges using <a href="/exercises/lab1.html">lab1.html</a>:
 <ul>
   <li>Use a heading</li>
   <li>There should be a list on the webpage</li>
