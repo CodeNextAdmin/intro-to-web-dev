@@ -25,9 +25,9 @@ An introductory web development club that will culminate in engineers producing 
 <p>You will practice adding the elements you just learned and gain confidence and interest by starting to build a custom web page. </p>
 Complete the following challenges using <a href="/exercises/lab1.html">lab1.html</a>:
 <ul>
-  <li>Headings</li>
-  <li>Paragraphs</li>
-  <li>Images</li>
+  <li>Add a heading</li>
+  <li>Add a paragraph</li>
+  <li>Update an image</li>
   <li>And more...</li>
 </ul>
 
