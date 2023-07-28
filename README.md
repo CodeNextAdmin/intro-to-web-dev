@@ -24,17 +24,12 @@ An introductory web development club that will culminate in engineers producing 
 <h3>Exercise #1</h3>
 <p>You will practice adding the elements you just learned and gain confidence and interest by starting to build a custom web page. </p>
 Complete the following challenges using <a href="/exercises/lab1.html">lab1.html</a>:
-Engineers learn how to link pages, how to add media, including images and videos.
-
-Add:
-Links: The href attribute (what does it stand for? What does it do?)
-<a href=”https://link.com”>Link text</a>
-Images and the src attribute: <img src=
-Types of images
-Videos:
-Uploaded
-Embedded (demo iframe method)
-
+<ul>
+  <li>Headings</li>
+  <li>Paragraphs</li>
+  <li>Images</li>
+  <li>And more...</li>
+</ul>
 
 <h3>Exercise #2</h3>
 <p>You will practice adding HTML elements into the <a href="/exercises/lab2.html">lab2.html</a> file:</p>
