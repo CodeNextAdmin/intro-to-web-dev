@@ -34,11 +34,9 @@ Complete the following challenges using <a href="/exercises/lab1.html">lab1.html
 <h3>Exercise #2</h3>
 <p>You will practice adding HTML elements into the <a href="/exercises/lab2.html">lab2.html</a> file:</p>
 <ul>
-<li>Wrapping our old code in divs</li>
-<li>Use <nav>, <header>, <footer>, <body> tags to organize content on their page</li>
+<li>Use div, nav, <header>, <footer>, <body> tags to organize content on the page</li>
 <li>Add images to our webpage, including alt tags</li>
 <li>Add at least 2 new HTML elements to your webpage</li>
-<li>Visit w3schools.com to find a few new HTML tags to add to your page</li>
 </ul>
 
 <h3>Exercise #3</h3>
