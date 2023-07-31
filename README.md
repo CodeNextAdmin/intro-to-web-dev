@@ -48,12 +48,11 @@ Complete the following challenges using <a href="/exercises/lab1.html">lab1.html
   <li>Borders: add a border to an element. Demonstrate how to set: style, color, width, and corner-radius
 </li>
 </ul>
-
-<h3>Exercise #4</h3>
 <p>Begin working on your <a href="/exercises/lab4.html">About Me page</a>.</p>
 
-Engineers should finish their About Me  projects today.
-Engineers should be expected to demo their work.
+<h3>Exercise #4</h3>
+<p>Continue making improvements to  your <a href="/exercises/lab4.html">About Me page</a>.</p>
+Things you can add include: 
 
 <h3>Exercise #5</h3>
 <p>You will be implementing <a href="/exercises/lab5.html">basic elements using Flexbox</a>.</p>
