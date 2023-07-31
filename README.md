@@ -6,7 +6,7 @@ An introductory web development club that will culminate in engineers producing 
 
 <h3>What will we do in this club?</h3>
 <ul>
-  <li>Understand what web development means
+  <li>Understand what web development means</li>
   <li>Learn the fundamentals of HTML and CSS</li>
   <li>Develop a static website from scratch, using HTML, CSS and flexbox methods</li>
 </ul>
@@ -40,7 +40,7 @@ Complete the following challenges using <a href="/exercises/lab1.html">lab1.html
 </ul>
 
 <h3>Exercise #3</h3>
-<p>You will be adding new CSS elements to help design your web page.</p>
+<p>You will be adding new <a href="/exercises/lab3.html">CSS elements</a> to help design your web page.</p>
 <ul>
   <li>Color : use in font-color and background</li>
   <li>Margin: create space around elements, outside of any defined borders</li>
@@ -50,15 +50,13 @@ Complete the following challenges using <a href="/exercises/lab1.html">lab1.html
 </ul>
 
 <h3>Exercise #4</h3>
-<p>Begin working on your About Me page.</p>
+<p>Begin working on your <a href="/exercises/lab4.html">About Me page</a>.</p>
 
-Day 4 Expectations:
 Engineers should finish their About Me  projects today.
 Engineers should be expected to demo their work.
 
-
 <h3>Exercise #5</h3>
-<p>You will be implementing basic elements using Flexbox.</p>
+<p>You will be implementing <a href="/exercises/lab5.html">basic elements using Flexbox</a>.</p>
 <ul>
 <li>The layout</li>
 <li>Display:flex</li>
@@ -66,7 +64,7 @@ Engineers should be expected to demo their work.
 </ul>
 
 <h3>Exercise #6</h3>
-<p>Start practicing creating layouts with CSS grid.</p>
+<p>Start practicing creating layouts with <a href="/exercises/lab6.html">CSS grid</a>.</p>
 Practice implementing the CSS grid by taking the 1st self assessment on Mozilla. If they still have time remaining, they can try the second challenge on the page.
 
 Encourage engineers to share or talk through their process as they move through the challenges. If they run into any obstacles, have them consult a peer, but make sure that their peers are not directly giving them the solution. Guide them through the process of communicating and guiding each other to the solution. 
@@ -74,7 +72,7 @@ Encourage engineers to share or talk through their process as they move through 
 Be sure to have engineers share their solutions.
 
 <h3>Exercise #7</h3>
-<p>learn  how to style properties when an element enters a special state.</p>
+<p>Learn  how to style properties when an element enters a special state.</p>
 
 Direct engineers to  w3 schools. The coach will show engineers how to use online documentation by explaining pseudo-class syntax before sending groups to experiment with properties and explore themselves.
 
@@ -83,7 +81,6 @@ Hover
 Active
 Clicked
 Nth-Child(n)
-
 
 <h3>Exercise #8</h3>
 Engineers learn how to define style properties by using seamless transitions in CSS.
