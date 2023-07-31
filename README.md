@@ -40,11 +40,14 @@ Complete the following challenges using <a href="/exercises/lab1.html">lab1.html
 </ul>
 
 <h3>Exercise #3</h3>
-
-Color : use in font-color and background
-Margin: create space around elements, outside of any defined borders
-Text-align: horizontal alignment of text in an element
-Borders: add a border to an element. Demonstrate how to set: style, color, width, and corner-radius
+<p>You will be adding new CSS elements to help design your web page.</p>
+<ul>
+  <li>Color : use in font-color and background</li>
+  <li>Margin: create space around elements, outside of any defined borders</li>
+  <li>Text-align: horizontal alignment of text in an element</li>
+  <li>Borders: add a border to an element. Demonstrate how to set: style, color, width, and corner-radius
+</li>
+</ul>
 
 <h3>Exercise #4</h3>
 Engineers independently continue building their About Me pages based on the planning and design they created. Coach provides assistance if engineers get stuck.  
@@ -55,16 +58,12 @@ Engineers should be expected to demo their work.
 
 
 <h3>Exercise #5</h3>
-Implement basic elements using Flexbox.
-
-The layout
-Display:flex
-Flex-direction
-
-<a href="https://css-tricks.com/wp-content/uploads/2022/02/css-flexbox-poster.png" target="_blank">Download the guide here</a>. 
-
-Spend 15 minutes having engineers code-along with this flexbox exercise.
-
+<p>You will be implementing basic elements using Flexbox.</p>
+<ul>
+<li>The layout</li>
+<li>Display:flex</li>
+<li>Flex-direction</li>
+</ul>
 
 <h3>Exercise #6</h3>
 Engineers practice creating layouts with CSS grid.
