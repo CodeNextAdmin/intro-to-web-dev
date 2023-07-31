@@ -50,7 +50,7 @@ Complete the following challenges using <a href="/exercises/lab1.html">lab1.html
 </ul>
 
 <h3>Exercise #4</h3>
-Engineers independently continue building their About Me pages based on the planning and design they created. Coach provides assistance if engineers get stuck.  
+<p>Begin working on your About Me page.</p>
 
 Day 4 Expectations:
 Engineers should finish their About Me  projects today.
@@ -66,16 +66,15 @@ Engineers should be expected to demo their work.
 </ul>
 
 <h3>Exercise #6</h3>
-Engineers practice creating layouts with CSS grid.
-
-Engineers will practice implementing the CSS grid by taking the 1st self assessment on Mozilla. If they still have time remaining, they can try the second challenge on the page.
+<p>Start practicing creating layouts with CSS grid.</p>
+Practice implementing the CSS grid by taking the 1st self assessment on Mozilla. If they still have time remaining, they can try the second challenge on the page.
 
 Encourage engineers to share or talk through their process as they move through the challenges. If they run into any obstacles, have them consult a peer, but make sure that their peers are not directly giving them the solution. Guide them through the process of communicating and guiding each other to the solution. 
 
 Be sure to have engineers share their solutions.
 
 <h3>Exercise #7</h3>
- Engineers learn  how to style properties when an element enters a special state.
+<p>learn  how to style properties when an element enters a special state.</p>
 
 Direct engineers to  w3 schools. The coach will show engineers how to use online documentation by explaining pseudo-class syntax before sending groups to experiment with properties and explore themselves.
 
