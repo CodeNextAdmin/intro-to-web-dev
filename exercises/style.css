@@ -1,2 +1,21 @@
-// Challenge #2: add a CSS text-color to the h1 tag //
+/* CSS files add styling rules to your content */
 
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background: #fff;
+  text-align: center;
+ 
+}
+
+h1 {
+  font-style: italic;
+  color: #f0f0f0;
+  margin: 0;
+  text-align: center;
+}
+
+p{
+  
+  margin: -25px 50px 75px 100px; /* top, right, bottom, left */
+}
