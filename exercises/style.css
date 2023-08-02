@@ -1,21 +1,29 @@
 /* CSS files add styling rules to your content */
 
-body {
-  font-family: helvetica, arial, sans-serif;
-  margin: 2em;
-  background: #fff;
-  text-align: center;
- 
+body { 
+  /*center all the elements */
+  
+  
+  /* add a background image of space */
+  
+     
 }
 
 h1 {
-  font-style: italic;
-  color: #f0f0f0;
-  margin: 0;
-  text-align: center;
+  
+  /* make this color white with a hot pink background
+  and bold text */
+  font-family: Tahoma, sans-serif
+  
+   
 }
 
-p{
-  
-  margin: -25px 50px 75px 100px; /* top, right, bottom, left */
-}
+/* Add additional rules:
+
+1. The h2 should have a different background color and margins
+2. The image should fit in the page and not be larger than 300 pixels width
+3. Give the image a border of your choice
+4. Style the paragraph tag with at least 5 rules!
+
+
+-------------------------------*/
