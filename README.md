@@ -21,6 +21,8 @@ An introductory web development club that will culminate in engineers producing 
 
 <strong>Prerequisites:</strong> Basic computer, how to surf the web and typing skills. 
 
+<h2>Exercises</h2>
+<p>You will follow the instructions inside each of the lab links below, in order to complete each exercise.</p>
 <h3>Exercise #1</h3>
 <p>You will practice adding the elements you just learned and gain confidence and interest by starting to build a custom web page. </p>
 Complete the following challenges using <a href="/exercises/lab1.html">lab1.html</a>:
