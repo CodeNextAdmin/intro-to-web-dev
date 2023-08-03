@@ -1,0 +1,24 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: Times, serif;
+  margin: 100px;
+}
+img {
+  width: 150px;
+  height: auto;
+}
+
+.red {
+  /*not actually red, but a better red: firebrick! */
+  color: firebrick;
+}
+
+.blue {
+  /* this color really exists and your browswer knows about it! */
+  color: cornflowerblue;
+}
+
+#title {
+  text-align: left;
+}
