@@ -25,12 +25,13 @@ An introductory web development club that will culminate in engineers producing 
 <p>You will follow the instructions inside each of the lab links below, in order to complete each exercise.</p>
 <h3>Exercise #1</h3>
 <p>You will practice adding the elements you just learned and gain confidence and interest by starting to build a custom web page. </p>
-Complete the following challenges using <a href="/exercises/lab1.html">lab1.html</a>:
+Complete the following 5 challenges using <a href="/exercises/lab1.html">lab1.html</a>:
 <ul>
+  <li>Add a title</li>
   <li>Add a heading</li>
   <li>Add a paragraph</li>
-  <li>Update an image</li>
-  <li>And more...</li>
+  <li>Add a link</li>
+  <li>Embed a video</li>
 </ul>
 
 <h3>Exercise #2</h3>
@@ -42,7 +43,14 @@ Complete the following challenges using <a href="/exercises/lab1.html">lab1.html
 </ul>
 
 <h3>Exercise #3</h3>
-<p>Use <a href="/exercises/style-lab3.css">this file</a> to flex your CSS muscles. Your challenge is to add the CSS rules to make the <a href="/exercises/lab3.html">Lab 3 website</a> a little less boring. Read the specs in the css comments!</p>
+<p>You will be adding new <a href="/exercises/lab3.html">CSS elements</a> to help design your web page.</p>
+<ul>
+  <li>Color : use in font-color and background</li>
+  <li>Margin: create space around elements, outside of any defined borders</li>
+  <li>Text-align: horizontal alignment of text in an element</li>
+  <li>Borders: add a border to an element. Demonstrate how to set: style, color, width, and corner-radius
+</li>
+</ul>
 <p>Begin working on your <a href="/exercises/lab4.html">About Me page</a>.</p>
 
 <h3>Exercise #4</h3>
@@ -58,12 +66,16 @@ Things you can add include:
 </ul>
 
 <h3>Exercise #6</h3>
-<p>Start practicing creating layouts with <a href="/exercises/lab6.html">CSS grid</a>.</p>
-Practice implementing the CSS grid by taking the 1st self assessment on Mozilla. If they still have time remaining, they can try the second challenge on the page.
-
-Encourage engineers to share or talk through their process as they move through the challenges. If they run into any obstacles, have them consult a peer, but make sure that their peers are not directly giving them the solution. Guide them through the process of communicating and guiding each other to the solution. 
-
-Be sure to have engineers share their solutions.
+<p>Practice your CSS styling using IDs and Classes using the <a href="/exercises/lab6.html">Lab 6 files</a>.</p>
+<h4>Your tasks:</h4>
+<ol>
+  <li>Change the person and places on the doc to display as different colors, and make bold.</li>
+  <li>Use the id selector to style the title</li>
+  <li>Change fonts. Give all the headings the same font, different from the paragraphs</li>
+  <li>The source at the bottom should be smaller than the regular paragraphs, and a lighter color</li>
+  <li>Make the quote stand out with margins, color, etc.</li>
+  <li>Add some new classes and IDs and play around with this page. Make stuff up, it's ok. </li>
+</ol>
 
 <h3>Exercise #7</h3>
 <p>Learn  how to style properties when an element enters a special state.</p>
