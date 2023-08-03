@@ -45,17 +45,16 @@ Complete the following 5 challenges using <a href="/exercises/lab1.html">lab1.ht
 <h3>Exercise #3</h3>
 <p>You will be adding new <a href="/exercises/lab3.html">CSS elements</a> to help design your web page.</p>
 <ul>
-  <li>Color : use in font-color and background</li>
-  <li>Margin: create space around elements, outside of any defined borders</li>
+  <li>Color: use in font-color and background</li>
+  <li>Box model: create space around elements, outside of any defined borders</li>
   <li>Text-align: horizontal alignment of text in an element</li>
-  <li>Borders: add a border to an element. Demonstrate how to set: style, color, width, and corner-radius
+  <li>Borders: add a border to an element. Play with style, color, width, and corner-radius
 </li>
 </ul>
-<p>Begin working on your <a href="/exercises/lab4.html">About Me page</a>.</p>
+<p>Work on your About Me page, to be completed next lab.</p>
 
-<h3>Exercise #4</h3>
-<p>Continue making improvements to  your <a href="/exercises/lab4.html">About Me page</a>.</p>
-Things you can add include: 
+<h3>Lab #4: About Me Project</h3>
+<p>Continue making improvements to  your About Me page</a>.</p>
 
 <h3>Exercise #5</h3>
 <p>You will be implementing <a href="/exercises/lab5.html">basic elements using Flexbox</a>.</p>
