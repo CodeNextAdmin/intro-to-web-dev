@@ -42,14 +42,7 @@ Complete the following challenges using <a href="/exercises/lab1.html">lab1.html
 </ul>
 
 <h3>Exercise #3</h3>
-<p>You will be adding new <a href="/exercises/lab3.html">CSS elements</a> to help design your web page.</p>
-<ul>
-  <li>Color : use in font-color and background</li>
-  <li>Margin: create space around elements, outside of any defined borders</li>
-  <li>Text-align: horizontal alignment of text in an element</li>
-  <li>Borders: add a border to an element. Demonstrate how to set: style, color, width, and corner-radius
-</li>
-</ul>
+<p>Use <a href="/exercises/style-lab3.css">this file</a> to flex your CSS muscles. Your challenge is to add the following CSS rules to make this boring website a little less boring. Read the specs in the style.css comments!</p>
 <p>Begin working on your <a href="/exercises/lab4.html">About Me page</a>.</p>
 
 <h3>Exercise #4</h3>
