@@ -1,0 +1,93 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+.container {
+  background: #f2f2f2;
+  padding: 20px;
+  margin:20px;
+  width:700px; /* change to fixed pixel value */
+   
+}
+
+.pos-relative {
+   width: 150px;
+  height: 150px;
+  vertical-align: middle; /*remove this and see how it changes */
+  padding:5px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+}
+
+.left {
+  background: chartreuse;
+  color: magenta;
+
+  /*
+  position:absolute;
+  margin-top:20px;
+  margin-left:20px
+  
+  */
+}
+.right {
+  background: magenta;
+  color: chartreuse;
+  /*position:absolute;*/
+}
+
+.pos-absolute {
+  position: absolute;
+  text-align: center;
+  background: teal;
+  color: white;
+  width: 150px;
+  height: 150px;
+
+  /*pin to the top: */
+
+  bottom: 10px;
+  right: 10px;
+}
+
+.pos-fixed {
+  position: fixed;
+  text-align: center;
+  background: cyan;
+  color: white;
+  width: 150px;
+  height: 150px;
+   
+  
+  /*pin to the bottom: */
+
+  bottom: 10px;
+  right: 10px;
+}
+
+/* together with the container div, the image and caption can be side by side */
+img{
+  width:150px;
+  height:150px;
+  display:inline-block;
+  vertical-align: top; /*try middle or bottom */
+  object-fit: cover; /*crops the picture to dimensions */
+}
+.caption{
+
+  position:relative;
+  display:inline-block;
+  width:70%; /* adjust this as the container width changes */
+  margin-left:20px; 
+  margin-right:20px;
+ }
