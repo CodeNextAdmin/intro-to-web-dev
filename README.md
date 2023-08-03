@@ -42,7 +42,7 @@ Complete the following challenges using <a href="/exercises/lab1.html">lab1.html
 </ul>
 
 <h3>Exercise #3</h3>
-<p>Use <a href="/exercises/style-lab3.css">this file</a> to flex your CSS muscles. Your challenge is to add the following CSS rules to make this boring website a little less boring. Read the specs in the style.css comments!</p>
+<p>Use <a href="/exercises/style-lab3.css">this file</a> to flex your CSS muscles. Your challenge is to add the CSS rules to make the <a href="/exercises/lab3.html">Lab 3 website</a> a little less boring. Read the specs in the css comments!</p>
 <p>Begin working on your <a href="/exercises/lab4.html">About Me page</a>.</p>
 
 <h3>Exercise #4</h3>
