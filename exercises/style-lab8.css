@@ -1,0 +1,30 @@
+/* comment out any of the code below to see the transitions work in the HTML file */
+.box {
+  background: #9b59b6;
+  height: 200px;
+  width: 200px;
+  line-height:200px;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+}
+
+.animated {
+  //transition-property: background;
+  transition-duration: 1s;
+  transition-timing-function: linear;
+}
+
+.box:hover {
+  background: #e74c3c;
+}
+
+.crazy {
+  //transition: transform 3s 1s, background 1s 1s;
+}
+
+.crazy:hover {
+  //transform: rotate(720deg) scale(0.5);
+  background: #e67e22;
+  border-radius: 100px;
+}
