@@ -50,7 +50,7 @@ Complete the following 5 challenges using <a href="/exercises/lab1.html">lab1.ht
   <li>Borders: add a border to an element. Play with style, color, width, and corner-radius
 </li>
 </ul>
-<p>Work on your About Me page, to be completed next lab.</p>
+<p>Work on your About Me page, to be completed next lab. You can use <a href="/exercises/about-me.html">this template</a> to get started.</p>
 
 <h3>Lab #4: About Me Project</h3>
 <p>Continue making improvements to  your About Me page</a>.</p>
