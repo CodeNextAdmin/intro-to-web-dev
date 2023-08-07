@@ -1,4 +1,3 @@
-# intro-to-web-dev
 <h2>Intro to Web Development</h2>
 
 <h3>What is this club all about?</h3>
