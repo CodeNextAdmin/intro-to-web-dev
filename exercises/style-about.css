@@ -1,0 +1,61 @@
+
+body {
+  font-family: Verdana, sans-serif;
+  background-color: #000000;
+}
+
+.content{
+  
+  margin-left: 20px;
+   
+}
+
+heading{
+  
+  font-family: 'Black Han Sans', sans-serif;
+  color: magenta;
+  font-size: 36px;
+  
+}
+
+.introduction{
+  
+  color: yellow;
+  margin-top: -20px;
+
+}
+.sidebar{
+  
+  width: 60%;
+  padding: 16px;
+  margin-top: 30px;
+}
+.left-sidebar{
+  background-color: magenta;
+  margin-left:-40px;
+  
+}
+
+.left-sidebar > p, h3{
+  /* one way to control child elements */
+  margin-left:20px;
+}
+
+.right-sidebar{
+  background-color: cyan;
+  margin-left: 40%;
+  
+}
+
+.right-sidebar > p {
+  margin-right:20px;
+  margin-left:20px;
+  
+}
+
+.sidebar-img {
+  
+  width:80%;
+  margin-left: 20px;
+}
+
