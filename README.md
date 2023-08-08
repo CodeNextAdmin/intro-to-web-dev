@@ -89,16 +89,8 @@ Work in pairs, to experiment with the following css and html sample code in the 
 </p>
 
 <h3>Exercise #8</h3>
-Engineers learn how to define style properties by using seamless transitions in CSS.
+Work alone to create fun CSS transitions, using the <a href="/exercises/lab8.html">lab 8</a> repository. Uncomment some of the CSS to see the transitions take effect in their html file. Hover over each box to see the transition!
 
-Coaches should guide engineers through CSS transitions through one of the following examples:
-Potential code-along prompts:
-Make a div red when hovered using a seamless transition
-Make a button ‘shake’ when clicked by moving it a few pixels in each direction before returning back to its original position
-The code along should answer the following questions:
-What CSS properties affect a transition?
-How can an engineer find resources online to build the perfect CSS transition?
-How can an engineer test their code to ensure a transition works in the IDE.
 
 
 
