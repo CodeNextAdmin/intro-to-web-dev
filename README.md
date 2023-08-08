@@ -77,14 +77,16 @@ Complete the following 5 challenges using <a href="/exercises/lab1.html">lab1.ht
 
 <h3>Exercise #7</h3>
 <p>Learn  how to style properties when an element enters a special state.</p>
-
-Direct engineers to  w3 schools. The coach will show engineers how to use online documentation by explaining pseudo-class syntax before sending groups to experiment with properties and explore themselves.
-
-Challenge engineers to work in groups, if possible, to experiment with the following css pseudo-classes on the code repository.  After time ends, engineers will share their findings. 
-Hover
-Active
-Clicked
-Nth-Child(n)
+<p>
+Work in pairs, to experiment with the following css and html sample code in the <a href="/exercises/lab7.html">lab 7 code</a> repository. Follow the prompts to make adjustments to the:
+  <ul>
+    <li>color</li>
+    <li>alignment</li>
+    <li>positioning</li>
+    <li>sizing</li>
+    <li>other elements of the web page</li> 
+  </ul>
+</p>
 
 <h3>Exercise #8</h3>
 Engineers learn how to define style properties by using seamless transitions in CSS.
