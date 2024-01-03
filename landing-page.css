@@ -1,0 +1,468 @@
+:root {
+	--background-root: #060606;
+	--background-default: #0C0C0C;
+	--background-highest: #282828;
+  
+	--foreground-default: #F7F8F8;
+	--foreground-dimmer: #95A2B3;
+}
+
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+*:focus {
+	outline: none;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+	color: var(--foreground-default);
+	font-family: 'Ubuntu', sans-serif;
+	background: var(--background-root);
+	font-size: 18px;
+	overflow-x: hidden;
+	scroll-behavior: smooth;	
+}
+
+h1 {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 64px;
+	font-weight: 700;
+}
+
+h2 {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 48px;
+	font-weight: 700;
+}
+
+h3 {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 32px;
+	font-weight: 700;
+}
+
+h4 {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 24px;
+	font-weight: 700;
+}
+
+p {
+	line-height: 150%;
+	color: var(--foreground-dimmer);
+}
+
+a {
+	text-decoration: none;
+	color: var(--foreground-dimmer);
+	transition: color 0.1s ease-out;
+	line-height: 150%;
+	font-size: 16px;
+}
+
+a:hover {
+	color: var(--foreground-default);
+}
+
+
+
+a.button {
+	border: none;
+	font-family: 'Ubuntu', sans-serif;
+	color: var(--foreground-default);
+	padding: 16px 32px;
+	background: var(--background-highest);
+	transition: filter 0.3s ease-out, box-shadow 0.1s, transform 0.1s;
+	box-shadow: 0px 3px 8px 0px #00000040,  0px 0px 0px 0px #000000 inset;
+	border-radius: 16px;
+	font-size: 16px;
+	line-height: 150%;
+	cursor: pointer;
+	font-weight: 500;
+}
+
+img.logo {
+  max-width: 50px;
+  background-color: var(--foreground-default);
+}
+
+.flex {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.left {
+	align-items: flex-start;
+	text-align: left;
+	justify-content: flex-start;
+}
+
+.center {
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+.flex-start {
+	align-items: flex-start;
+}
+
+.flex-end {
+	align-items: flex-end;
+}
+
+.space-between {
+	justify-content: space-between;
+}
+
+.col {
+	flex-direction: column;
+}
+
+.wrap {
+	flex-wrap: wrap;
+}
+
+
+
+.gap-8 {
+	gap: 8px;
+}
+
+.gap-16 {
+	gap: 16px;
+}
+
+.gap-32 {
+	gap: 32px;
+}
+
+.gap-64 {
+	gap: 64px;
+}
+
+.gap-128 {
+	gap: 128px;
+}
+
+.p-4 {
+	padding: 4px;
+}
+
+.p-8 {
+	padding: 8px;
+}
+
+.p-16 {
+	padding: 16px;
+}
+
+.p-32 {
+	padding: 32px;
+}
+
+.p-64 {
+	padding: 64px;
+}
+
+.p-128 {
+	padding: 128px;
+}
+
+.pX-4 {
+	padding-left: 4px;
+	padding-right: 4px;
+}
+
+.pX-8 {
+	padding-left: 8px;
+	padding-right: 8px;
+}
+
+.pX-16 {
+	padding-left: 16px;
+	padding-right: 16px;
+}
+
+.pX-32 {
+	padding-left: 32px;
+	padding-right: 32px;
+}
+
+.pX-64 {
+	padding-left: 64px;
+	padding-right: 64px;
+}
+
+.pX-128 {
+	padding-left: 128px;
+	padding-right: 128px;
+}
+
+.pY-4 {
+	padding-top: 4px;
+	padding-bottom: 4px;
+}
+
+.pY-8 {
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+
+.pY-16 {
+	padding-top: 16px;
+	padding-bottom: 16px;
+}
+
+.pY-32 {
+	padding-top: 32px;
+	padding-bottom: 32px;
+}
+
+.pY-64 {
+	padding-top: 64px;
+	padding-bottom: 64px;
+}
+
+
+
+nav {
+	background: var(--background-root);
+	border-bottom: 1px solid var(--background-highest);
+	width: calc(100% - 256px);
+	position: fixed;
+	z-index: 5;
+	box-shadow: 0 3px 32px #000;
+}
+
+nav h4 {
+	color: var(--foreground-default);
+}
+
+
+
+section {
+	display: flex;
+	flex-direction: column;
+	gap: 64px;
+	padding: 128px;
+}
+
+section.row {
+	flex-direction: row;
+}
+
+.container {
+	background: var(--background-highest);
+	border-radius: 32px;
+	border: 1px solid var(--background-highest);
+}
+
+
+.image {
+	flex-grow: 1;
+}
+
+.section.landing {
+	padding-top: 200px;
+}
+
+.image.landing {
+	min-height: 200px;
+}
+
+.image.feature {
+	height: 560px;
+}
+
+.landing > div > div {
+	width: 668px;
+}
+
+ion-icon {
+	width: 48px;
+	height: 48px;
+}
+
+.features .flex.wrap > div {
+	width: 300px;
+}
+
+
+
+
+.see-why .flex.col .container {
+	width: 180px;
+	height: 180px;
+}
+
+.see-why .flex.col {
+	width: 256px;
+}
+
+.cta svg {
+	width: 64px;
+	height: 64px;	
+}
+
+footer {
+	background: var(--background-default);
+	border-top: 1px solid var(--background-highest);
+	padding: 128px 10%;
+}
+
+footer a > div {
+	color: var(--foreground-default);
+}
+
+footer > div {
+	width: 100%;
+}
+
+footer .flex.col.space-between {
+	max-width: 400px;
+	align-self: stretch;
+}
+
+footer .flex.col.space-between svg {
+	width: 60px;
+	height: 60px;
+}
+
+footer .flex.col.space-between .flex.center {
+	justify-content: flex-start;
+}
+
+footer .flex.gap-32 ion-icon {
+	width: 20px;
+	height: 20px;
+}
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 1500px) {
+	section, footer {
+		padding: 128px 18%;
+	}
+
+	nav {
+		padding: 16px 18% !important;
+		width: calc(100% - 36%);
+	}
+}
+
+@media only screen and (min-width: 2000px) {
+	section, footer {
+		padding: 128px 25%;
+	}
+
+	nav {
+		padding: 16px 25% !important;
+		width: calc(100% - 50%);
+	}
+}
+
+@media only screen and (min-width: 3000px) {
+	section, footer {
+		padding: 128px 30%;
+	}
+
+	nav {
+		padding: 16px 30% !important;
+		width: calc(100% - 60%);
+	}
+}
+
+@media only screen and (max-width: 1300px) {
+	section {
+		padding: 128px 64px;
+	}
+
+	nav {
+		padding: 16px 64px !important;
+		width: calc(100% - 128px);
+	}
+}
+
+@media only screen and (max-width: 1000px) {
+	section {
+		flex-direction: column !important;
+	}
+
+	section.feature > div, section.reviews > div {
+		flex: revert;
+		width: 100%;
+	}
+}
+
+@media only screen and (max-width: 900px) {
+
+
+	nav .flex.gap-32 {
+		display: none;
+	}
+	
+
+
+}
+
+@media only screen and (min-width: 900px) {
+	.hamburger.menu-icon-open, .hamburger.close-icon-open {
+		display: none !important;
+	}
+}
+
+@media only screen and (max-width: 700px) {
+	.landing > div > div, section.center div.flex.col.gap-16.center, section.center div.flex.col.gap-16.center {
+		width: auto;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	
+	section {
+		padding: 128px 32px;
+	}
+
+	.features .flex.wrap > div {
+		width: 100%;
+	}
+
+	h1 {
+		font-size: 56px;
+	}
+	
+	h2 {
+		font-size: 40px;
+	}
+	
+	h3 {
+		font-size: 28px;
+	}
+	
+	h4 {
+		font-size: 20px;
+	}
+
+	nav {
+		padding: 16px 32px !important;
+    width: calc(100% - 64px);
+	}
+}
+
+@media (max-height: 700px) {
+	.get-started-body {
+		overflow: revert;
+	}
+}

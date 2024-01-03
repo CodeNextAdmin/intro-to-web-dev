@@ -1,0 +1,88 @@
+<!--
+Go to the style-lab5.css file and work through these challenges: 
+1. change classes on elements
+2. adjust container sizes by width
+3. demo difference between fixed and absolute
+4. demo using relative position and display to put elements side by side.
+5. optional: build a fixed header -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Lab 5: Flexbox and positioning</title>
+
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="style-lab5.css" />
+  </head>
+  <body>
+    <div>
+      <h2>
+        Demo of Position Attributes
+      </h2>
+    </div>
+
+    <div class="container">
+      <div class="pos-relative left">
+        <h3>
+          I'm relative and go with the flow.
+        </h3>
+      </div>
+      <div class="pos-relative right">
+        <h3>
+          I'm relative too !
+        </h3>
+      </div>
+    </div>
+
+    <div class="container ">
+      <img
+        src="https://cdn.pixabay.com/photo/2014/02/14/22/22/nachos-266224_960_720.jpg"
+      />
+      <p class="caption">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
+        imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae
+        scelerisque enim ligula venenatis dolor.
+      </p>
+    </div>
+    <div class="container">
+      <img
+        src="https://cdn.pixabay.com/photo/2019/09/26/04/01/tacos-pastor-4505032_1280.jpg"
+      />
+      <p class="caption">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
+        imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae
+        scelerisque enim ligula venenatis dolor.
+      </p>
+    </div>
+    <div class="container">
+
+      <p class="caption">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
+        imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae
+        scelerisque enim ligula venenatis dolor.
+      </p>
+      <img
+        src="https://cdn.pixabay.com/photo/2016/12/06/05/15/mexican-food-1885616_1280.jpg"
+      />
+    </div>
+
+    <div class="container">
+      <p class="caption">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
+        imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae
+        scelerisque enim ligula venenatis dolor.
+      </p>
+      <img
+        src="https://cdn.pixabay.com/photo/2017/11/13/03/56/grilled-pineapple-pork-burrito-2944562_960_720.jpg"
+      />
+    </div>
+
+    <div class="pos-absolute">
+      <h3>
+        I'm absolute. I scroll
+      </h3>
+    </div>
